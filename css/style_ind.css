@@ -1,6 +1,6 @@
 /* style_ind.css */
 body {
-	background-image: url('../images/yacht_backgr.png');
+	background-image: url("../images/yacht_backgr.png");
 	background-size: cover;
 	margin: 0;
 	padding: 0;
